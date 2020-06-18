@@ -1,2 +1,0 @@
-# eywa
-A kernel

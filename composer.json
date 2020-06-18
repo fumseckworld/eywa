@@ -1,0 +1,12 @@
+{
+    "name": "eywa/eywa",
+    "description": "One interface to manage all server websites",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Willy Micieli",
+            "email": "fumseck@fumseck.org"
+        }
+    ],
+    "require": {}
+}
