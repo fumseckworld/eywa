@@ -1,0 +1,12 @@
+[package]
+name = "eywa"
+version = "0.1.0"
+edition = "2021"
+description = "An api for manage rust project"
+repository = "https://github.com/fumseckworld/eywa"
+keywords = ["api","cargo","rust","teams"]
+categories = ["api"]
+license = "AGPL-3.0"
+[dependencies]
+actix-web = "4.9.0"
+serde_json = "1.0.125"
